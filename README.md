@@ -1,7 +1,5 @@
 # Wilderix
 
-![Wilderix Logo](logo.png)
-
 Welcome to Wilderix, where adventure meets tranquility! We specialize in providing unique holiday resorts in remote locations, allowing you to escape the bustling city life and immerse yourself in nature's beauty. Our resorts are carefully selected to offer breathtaking landscapes, secluded environments, and unforgettable experiences.
 
 ## Table of Contents
