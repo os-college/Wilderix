@@ -25,10 +25,6 @@ At Wilderix, we believe that true relaxation and rejuvenation can only be found 
 
 - Wellness and relaxation: Indulge in our spa facilities, yoga retreats, and wellness programs to unwind, rejuvenate, and find your inner balance.
 
-## Contributing
-
-We welcome contributions from the community to help us improve and expand our offerings. If you have any ideas, suggestions, or feedback, please submit an issue or a pull request to our GitHub repository.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
